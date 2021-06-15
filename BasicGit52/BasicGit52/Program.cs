@@ -33,7 +33,7 @@ namespace BasicGit52
 
         static void MethodLingga()
         {
-
+            Console.WriteLine("CW dari Lingga");
         }
 
         static void MethodMahendra()
