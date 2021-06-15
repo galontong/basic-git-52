@@ -63,6 +63,7 @@ namespace BasicGit52
         static void MethodFaiz()
         {
             Console.WriteLine("Menambahkan Method Bodi -> method 'MethodFaiz'");
+            Console.WriteLine("menambahkan line merge conflic");
         }
     }
 }
