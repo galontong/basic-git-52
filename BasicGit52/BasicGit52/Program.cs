@@ -43,7 +43,7 @@ namespace BasicGit52
 
         static void MethodMorgan()
         {
-
+            Console.WriteLine("HALLO INI MORGAN");
         }
 
         static void MethodAtha()
