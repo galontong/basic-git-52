@@ -38,7 +38,7 @@ namespace BasicGit52
 
         static void MethodMahendra()
         {
-
+            Console.WriteLine("CW dari Mahendra");
         }
 
         static void MethodMorgan()
