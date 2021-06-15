@@ -7,6 +7,7 @@ namespace BasicGit52
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! dari Herul");
+            Console.WriteLine("Hello World! dari Gerald");
         }
     }
 }
