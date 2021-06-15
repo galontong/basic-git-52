@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj": {}
+    "C:\\Users\\TAAD\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj": {
+    "C:\\Users\\TAAD\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj",
+        "projectUniqueName": "C:\\Users\\TAAD\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj",
         "projectName": "BasicGit52",
-        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\obj\\",
+        "projectPath": "C:\\Users\\TAAD\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\BasicGit52.csproj",
+        "packagesPath": "C:\\Users\\TAAD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAAD\\Documents\\GitHub\\basic-git-52\\BasicGit52\\BasicGit52\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TAAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
