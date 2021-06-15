@@ -48,7 +48,7 @@ namespace BasicGit52
 
         static void MethodAtha()
         {
-
+            Console.WriteLine("CW dari Atha");
         }
 
         static void MethodSyifa()
