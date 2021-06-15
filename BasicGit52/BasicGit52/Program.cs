@@ -17,7 +17,7 @@ namespace BasicGit52
         
         static void MethodYuzril()
         {
-
+            Console.WriteLine("CW dari yuszril");
         }
 
         static void MethodBoni()
