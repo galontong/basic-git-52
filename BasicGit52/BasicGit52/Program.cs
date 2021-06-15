@@ -27,7 +27,8 @@ namespace BasicGit52
 
         static void MethodGerald()
         {
-
+            Console.WriteLine("Editan dari Gerald");
+            Console.WriteLine("dan di merge oleh manager");
         }
 
         static void MethodLingga()
