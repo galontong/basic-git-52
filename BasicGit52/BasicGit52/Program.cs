@@ -22,7 +22,7 @@ namespace BasicGit52
 
         static void MethodBoni()
         {
-
+            Console.WriteLine("CW dari Boni");
         }
 
         static void MethodGerald()
