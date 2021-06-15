@@ -52,7 +52,7 @@ namespace BasicGit52
 
         static void MethodSyifa()
         {
-
+            Console.WriteLine("cw dari syifa");
         }
 
         static void MethodTaufan()
