@@ -57,7 +57,7 @@ namespace BasicGit52
 
         static void MethodTaufan()
         {
-
+            Console.WriteLine("CW dari Taufan");
         }
 
         static void MethodFaiz()
