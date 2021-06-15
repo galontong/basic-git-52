@@ -84,6 +84,7 @@ namespace BasicGit52
         {
             Console.WriteLine("Menambahkan Method Bodi -> method 'MethodFaiz'");
             Console.WriteLine("Conflict Main");
+            Console.WriteLine("menambahkan line merge conflic");
         }
     }
 }
