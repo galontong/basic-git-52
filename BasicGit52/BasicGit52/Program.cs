@@ -12,7 +12,7 @@ namespace BasicGit52
 
         static void MethodHerul()
         {
-
+            Console.WriteLine("CW dari herul");
         }
         
         static void MethodYuzril()
